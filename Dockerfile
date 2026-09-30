@@ -1,5 +1,4 @@
 FROM adoptopenjdk/openjdk8:ubuntu-jre-nightly
-MAINTAINER zhoufan47
 RUN mkdir -p /app/java/  /media/music
 ENV auther=pewee
 WORKDIR /app/java/

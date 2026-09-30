@@ -44,4 +44,4 @@ jobs:
         file: ./Dockerfile
         platforms: linux/amd64,linux/arm64
         push: true
-        tags: zhoufan47/netease-music-dl:latest
+        tags: dfface/netease-music-dl:latest
